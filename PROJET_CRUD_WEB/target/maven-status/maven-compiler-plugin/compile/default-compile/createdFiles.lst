@@ -1,9 +1,0 @@
-com\mycompany\projet_crud_web\JAXRSConfiguration.class
-controller\LoginServlet.class
-com\mycompany\projet_crud_web\resources\JavaEE8Resource.class
-model\Student.class
-dao\StudentDAO.class
-dao\UserDAO.class
-controller\StudentServlet.class
-dao\DBUtil.class
-model\User.class
